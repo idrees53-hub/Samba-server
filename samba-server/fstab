@@ -1,0 +1,5 @@
+UUID=497ad222-04fa-453f-b110-ba8001d38788	/	xfs	defaults	0	0
+UUID=2e0d9ec9-a82a-43cc-a8e2-c6db30e7f6a4	/boot	xfs	defaults	0	0
+UUID=7B77-95E7	/boot/efi	vfat	defaults,uid=0,gid=0,umask=077,shortname=winnt	0	2
+
+//192.168.0.1/smbshare	/smbmount 	cifs 	username=idrees,password=redhat@123 0 0 
