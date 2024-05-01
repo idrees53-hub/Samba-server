@@ -1,12 +1,12 @@
-## In this directory You will find servers regarding projects that enjoy having some hands-on experience.
+## This repository is all about samba server configuration 
 
-server like:
- - samba server
- - httpd server
- - nginx server
- - iscsi server
- - DNS server
- - nfs server
- - database server
+--> three easy steps by which you can configure you samba server 
 
-If you want to learn about more servers then contact me on my Linked https://www.linkedin.com/in/idrees-ali-9093b3222/ 
+==> follow the steps written in the README.md file of samba sever 
+==> carefully read every instructions and then execute the commands 
+==> don't follow everything blindly read everything and then implement the changes 
+
+
+
+
+##Keep Learning Everyone !!! ;) 
